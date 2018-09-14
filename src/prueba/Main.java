@@ -9,6 +9,8 @@ public class Main {
 		
 		int a=0;
 		String var="sdfasdf";
+		
+		System.out.println("Qué tal?");
 
 	}
 
